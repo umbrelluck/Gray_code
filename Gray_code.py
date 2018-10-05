@@ -36,7 +36,3 @@ def deCode(item):
         return res
     else:
         return 'Not valid input'
-
-
-code = makeCode('jkbsbjhdb')
-print(deCode(code))
